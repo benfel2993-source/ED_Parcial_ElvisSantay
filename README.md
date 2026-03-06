@@ -1,7 +1,7 @@
 Examen Parcial - Iterativo vs Recursivo — Análisis de Algoritmos
 
 Nombre: Elvis Santay
-Curso: Estructura de Datos
+\nCurso: Estructura de Datos
 Catedrático: Ing. Brandon Chitay
 Universidad Da Vinci de Guatemala
 ---------------------------------
