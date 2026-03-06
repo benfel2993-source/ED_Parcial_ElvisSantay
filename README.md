@@ -1,7 +1,7 @@
 Examen Parcial - Iterativo vs Recursivo — Análisis de Algoritmos
-
+---------------------------------
 Nombre: Elvis Santay
-\nCurso: Estructura de Datos
+Curso: Estructura de Datos
 Catedrático: Ing. Brandon Chitay
 Universidad Da Vinci de Guatemala
 ---------------------------------
@@ -17,12 +17,12 @@ Algoritmos implementados:
 - Ordenamiento Burbuja
 
 Se midieron los tiempos de ejecución utilizando System.nanoTime() para analizar cómo cambia el rendimiento según el tamaño de entrada.
-_________________________________
+---------------------------------
 Compilar
 
 Desde la carpeta raíz del proyecto ejecutar:
 javac -d out src/algorithms/*.java src/benchmark/*.java
-_________________________________
+---------------------------------
 Ejecutar
 
 Cada algoritmo tiene su propio main.
@@ -31,7 +31,7 @@ java -cp out benchmark.MainFibonacci
 java -cp out benchmark.MainFactorial
 java -cp out benchmark.MainBusquedaLineal
 java -cp out benchmark.MainBurbuja
-_________________________________
+---------------------------------
 Video del proyecto
 
 Enlace al video:
