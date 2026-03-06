@@ -9,7 +9,7 @@ public class MainFactorial {
     public static void main(String[] args) {
 
         System.out.println("============================================================");
-        System.out.println("A1 - FACTORIAL");
+        System.out.println("A01 - FACTORIAL");
         System.out.println("============================================================");
 
         System.out.println("\nFACTORIAL ITERATIVO  [O(n)]");
