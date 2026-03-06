@@ -10,7 +10,7 @@ public class MainBurbuja {
     public static void main(String[] args) {
 
         System.out.println("============================================================");
-        System.out.println("ORDENAMIENTO BURBUJA");
+        System.out.println("A4 - ORDENAMIENTO BURBUJA");
         System.out.println("============================================================");
 
         Random random = new Random();

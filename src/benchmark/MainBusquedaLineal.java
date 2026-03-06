@@ -11,7 +11,7 @@ public class MainBusquedaLineal {
     public static void main(String[] args) {
 
         System.out.println("============================================================");
-        System.out.println("BUSQUEDA LINEAL");
+        System.out.println("A3 - BUSQUEDA LINEAL");
         System.out.println("============================================================");
 
         Random random = new Random();

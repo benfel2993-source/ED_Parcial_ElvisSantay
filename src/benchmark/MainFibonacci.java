@@ -9,7 +9,7 @@ public class MainFibonacci {
     public static void main(String[] args) {
 
         System.out.println("============================================================");
-        System.out.println("SERIE DE FIBONACCI");
+        System.out.println("A2 - SERIE DE FIBONACCI");
         System.out.println("============================================================");
 
         System.out.println("\nFIBONACCI ITERATIVO  [O(n)]");
